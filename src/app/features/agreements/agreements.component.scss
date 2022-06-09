@@ -1,0 +1,14 @@
+
+.content{
+  padding: 0px 25px;
+}
+.my-breadcrumb{
+  padding: 0px 25px;
+}
+
+.breadcrumb > li + li:before {
+  padding: 0 5px;
+  color: rgb(141, 141, 141);
+  content: "\276F\00a0";
+}
+
